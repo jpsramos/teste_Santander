@@ -88,7 +88,7 @@ Para o teaste optei em criar um classe com o nome SantanderAccessLog para realiz
 
 ![image](https://github.com/user-attachments/assets/c128dfe9-4a26-4e60-baa0-6146298b2625)
 
-   - O método parse_log_line, tratp a trnsposição das informações para coluna, utilizando expressão regular e leio-o como dataframe para inicar o teste/desenvolvimento
+   - O método parse_log_line, trata a transposição das informações para coluna, utilizando expressão regular e leio-o como dataframe para inicar o teste/desenvolvimento
 
 ![image](https://github.com/user-attachments/assets/307dc9be-32be-444b-89dc-a7325cec686a)
 
