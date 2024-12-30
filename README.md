@@ -22,3 +22,19 @@ O teste deve cobrir respostas utilizando pyspark para os seguintes desafios:
 6. **Qual o dia da semana com o maior número de erros do tipo "HTTP Client Error"?**
 ---
 
+### **Deployment:**
+**Opção 2: Databricks Community Edition**
+1. **Criação da Conta e Configuração do Ambiente:**
+   - Crie uma conta gratuita em [Databricks Community Edition](https://community.cloud.databricks.com/).
+   - Importe o arquivo de log para o ambiente do Databricks (você pode fazer upload diretamente ou usar um caminho HTTP para acessá-lo).
+
+2. **Notebook:**
+   - Desenvolva a solução usando um notebook Databricks com o código em **Python** ou **Scala**.
+   - Certifique-se de que o código está bem estruturado e documentado.
+
+3. **Entrega:**
+   - Inclua um link para o notebook Databricks no seu repositório GitHub ou adicione o código completo diretamente no repositório.
+   - No arquivo `README.md`, inclua:
+      - **Instruções de como configurar e executar o código no Databricks**.
+---
+
