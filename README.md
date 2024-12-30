@@ -38,3 +38,39 @@ O teste deve cobrir respostas utilizando pyspark para os seguintes desafios:
       - **Instruções de como configurar e executar o código no Databricks**.
 ---
 
+### **Primeiro aceeo Databricks Community Edition**
+   - Realize o cadastro no ambiente e registro seu email como uma conta válida.
+   - Para proteção e segurança, ative o padrão multifator e recebe seu tokem no email para acesso, após inserir email e o password cadastrado.
+Abaixo, interface de acesso, criei um diretório com o nome Santander e inseri nele o arquivo correspondente aos testes que realizei.
+
+![image](https://github.com/user-attachments/assets/b58a7e02-ab6e-409c-be19-8784a6e40e55)
+
+
+   - Para iniciar o desenvolvimento, dvemos criar um cluster com definições de versão do spark e recurso de hardware para processar o arquivo. O menú ao lado esquerdo tem a opção Computer, nela criamos o cluster para uso.
+
+![image](https://github.com/user-attachments/assets/f4ea54c9-1ae5-4191-a0aa-c3323a9212ed)
+
+Para o desenvolvimento do teste, defini a seguinte configuração:
+
+![image](https://github.com/user-attachments/assets/45f1dd02-7870-491a-8410-193506944d1f)
+
+   - Criado o cluster e ativo para uso, é necessário fazer upload do arquivo para o ambiente, podemos fazê-lo clicando na opção Catalog, no menú ao lado esquerdo:
+![image](https://github.com/user-attachments/assets/de0523a7-6d58-462b-a84a-68276a14552f)
+
+No botão acima, create table ao clicar, poderemos movimentar o arquivo para o ambinete. 
+
+![image](https://github.com/user-attachments/assets/08b43348-9a6f-4cba-ab7a-56887769f045)
+Minha tabela está criada, exibirei como podemos criá-la mais adiante através do código, essa interface viabiliza criá-la diretamente, ativando algumas opções para formatá-la com base em sua estrutura, se o separador é virgula ou ponto e vírgula, por exemplo, entre outras propriedades.
+Ao clicar em Create Table a seguinte tela será exibida
+
+![image](https://github.com/user-attachments/assets/46e61644-378f-4b31-a069-1f346b0e8758)
+
+Nela poderemos mover o arquivo para o upload, ao abrir um janela do windows e localizar o arquivo em seu computador, no instante que move-se este para o centro dessa tela, o upload inici-se automaticamente.
+
+![image](https://github.com/user-attachments/assets/5df85b1d-22df-444c-94ff-5dc2e05fec65)
+
+
+
+
+
+
