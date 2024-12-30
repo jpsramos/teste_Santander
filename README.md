@@ -142,6 +142,18 @@ Para o teaste optei em criar um classe com o nome SantanderAccessLog para realiz
 
 ---
 
+### **Print Acesso a tabela criada no catálogo:**
+
+![image](https://github.com/user-attachments/assets/9bc9b2b6-35e8-45b5-98dd-2e2c2590e0ef)
+
+
+![image](https://github.com/user-attachments/assets/fe7f94df-0b2e-47cd-95d6-96d65cf73529)
+
+
+![image](https://github.com/user-attachments/assets/483ce124-63c8-41dd-a4bb-a92a619c499d)
+
+
+---
 
 ### **Recomendações - Boas práticas:**
 
