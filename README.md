@@ -87,5 +87,50 @@ Faço conexões de teste para visualizar o conteúdo do arquivo, crio alguns met
 
 ![image](https://github.com/user-attachments/assets/3dddeb30-c7ff-4635-88f1-859dc6598396)
 
+Para o teaste optei em criar um classe com o nome SantanderAccessLog para realizar a entrega.
+
+![image](https://github.com/user-attachments/assets/c128dfe9-4a26-4e60-baa0-6146298b2625)
+
+   - O método parse_log_line, tratp a trnsposição das informações para coluna, utilizando expressão regular e leio-o como dataframe para inicar o teste/desenvolvimento
+
+![image](https://github.com/user-attachments/assets/307dc9be-32be-444b-89dc-a7325cec686a)
+
+![image](https://github.com/user-attachments/assets/2df90e94-72eb-44cb-8a0c-bd16e5d189bd)
+
+
+   - O método write_to_delta_table crio a tabela no catalogo do ambiente
+
+![image](https://github.com/user-attachments/assets/0a648c46-3469-40db-af79-c41432e9e3a6)
+
+   - O método exercise_1 corresponde ao desenvolvimento para realizar a operação para detectar a resposta desejada no teste, o mesmo acontecerá para os demais
+
+![image](https://github.com/user-attachments/assets/0099c440-4a4c-4dea-8bd7-9bd530f9b4aa)
+
+
+   - O método exercise_2
+
+![image](https://github.com/user-attachments/assets/16fcfa07-78e4-45c9-913e-f3919141dbd7)
+
+
+   - O método exercise_3
+
+![image](https://github.com/user-attachments/assets/f63d148a-6401-4ca6-a601-6ad4ffd24f05)
+
+
+   - O método exercise_4
+
+![image](https://github.com/user-attachments/assets/62ce4e93-b38d-44c8-9c65-22a79dfd6417)
+
+
+   - O método exercise_5
+
+![image](https://github.com/user-attachments/assets/3880255d-1949-49de-9b43-1cbdf69dc157)
+
+
+   - O método exercise_6
+
+![image](https://github.com/user-attachments/assets/09bfc12f-054e-4e87-b35a-91541a85b9fe)
+
+
 
 
