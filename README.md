@@ -60,6 +60,7 @@ Para o desenvolvimento do teste, defini a seguinte configuração:
 No botão acima, create table ao clicar, poderemos movimentar o arquivo para o ambinete. 
 
 ![image](https://github.com/user-attachments/assets/08b43348-9a6f-4cba-ab7a-56887769f045)
+
 Minha tabela está criada, exibirei como podemos criá-la mais adiante através do código, essa interface viabiliza criá-la diretamente, ativando algumas opções para formatá-la com base em sua estrutura, se o separador é virgula ou ponto e vírgula, por exemplo, entre outras propriedades.
 Ao clicar em Create Table a seguinte tela será exibida
 
@@ -69,6 +70,19 @@ Nela poderemos mover o arquivo para o upload, ao abrir um janela do windows e lo
 
 ![image](https://github.com/user-attachments/assets/5df85b1d-22df-444c-94ff-5dc2e05fec65)
 
+Finalizado o upload, iniciaremos o desenvolvimento.
+
+---
+
+### **Desenvolvimento:**
+
+Tenho por prática fazer alguns testes antes de inicar um desenvolvimento real:
+
+Faço conexões de teste para visualizar o conteúdo do arquivo, crio alguns metodos para testes iniciais.
+
+![image](https://github.com/user-attachments/assets/d75e6a3e-0cf9-4aa9-8327-0231eff18c35)
+
+![image](https://github.com/user-attachments/assets/54e57d19-5d5c-467d-8dbb-bcf278fadea7)
 
 
 
