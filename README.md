@@ -58,9 +58,6 @@ Para o desenvolvimento do teste, defini a seguinte configuração:
 ![image](https://github.com/user-attachments/assets/de0523a7-6d58-462b-a84a-68276a14552f)
 
 No botão acima, create table ao clicar, poderemos movimentar o arquivo para o ambinete. 
-
-![image](https://github.com/user-attachments/assets/08b43348-9a6f-4cba-ab7a-56887769f045)
-
 Minha tabela está criada, exibirei como podemos criá-la mais adiante através do código, essa interface viabiliza criá-la diretamente, ativando algumas opções para formatá-la com base em sua estrutura, se o separador é virgula ou ponto e vírgula, por exemplo, entre outras propriedades.
 Ao clicar em Create Table a seguinte tela será exibida
 
