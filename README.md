@@ -128,6 +128,21 @@ Para o teaste optei em criar um classe com o nome SantanderAccessLog para realiz
 
 ![image](https://github.com/user-attachments/assets/09bfc12f-054e-4e87-b35a-91541a85b9fe)
 
+---
 
+### **Print Respostas:**
+
+![image](https://github.com/user-attachments/assets/89a57353-7ce9-46d7-892c-fae3937a6270)
+
+
+![image](https://github.com/user-attachments/assets/41cda744-edca-4c39-8c96-c0d92a61eff3)
+
+
+![image](https://github.com/user-attachments/assets/265c521a-fb73-44f6-af24-11b158ad011f)
+
+---
+
+
+### **Recomendações - Boas práticas:**
 
 
