@@ -146,3 +146,58 @@ Para o teaste optei em criar um classe com o nome SantanderAccessLog para realiz
 ### **Recomendações - Boas práticas:**
 
 
+1. Organização e Estrutura
+Use Workspaces de forma organizada: Estruture seus notebooks e projetos em pastas lógicas para facilitar a navegação e colaboração.
+Nomeie notebooks e clusters de forma descritiva: Use nomes que reflitam o propósito do notebook ou cluster, como ETL_Sales_Data ou Cluster_Analytics_Team.
+Versionamento de código: Integre o Databricks com sistemas de controle de versão, como Git, para rastrear alterações no código.
+
+3. Configuração de Clusters
+Escolha o tipo de cluster adequado: Use clusters de propósito geral para desenvolvimento e clusters otimizados para produção.
+Dimensionamento automático (Auto-scaling): Habilite o auto-scaling para ajustar automaticamente os recursos do cluster com base na carga de trabalho.
+Desligamento automático: Configure o desligamento automático para evitar custos desnecessários quando o cluster estiver ocioso.
+Use clusters compartilhados com cuidado: Para evitar conflitos, use clusters dedicados para tarefas críticas.
+
+4. Segurança
+Gerencie permissões: Configure permissões no nível do workspace, cluster e notebook para controlar o acesso.
+Use tokens de acesso pessoal (PAT): Para autenticação segura ao interagir com a API do Databricks.
+Proteja dados sensíveis: Use criptografia para armazenar dados sensíveis e evite expor credenciais em notebooks.
+Auditoria e monitoramento: Ative logs de auditoria para rastrear atividades no workspace.
+
+5. Boas Práticas de Desenvolvimento
+Modularize o código: Divida o código em funções ou notebooks reutilizáveis para facilitar a manutenção.
+Use bibliotecas externas: Instale pacotes necessários diretamente no cluster ou use bibliotecas gerenciadas pelo Databricks.
+Teste e valide o código: Execute testes em amostras de dados antes de processar grandes volumes.
+Documente o código: Adicione comentários e use células Markdown para explicar o propósito do notebook.
+
+6. Gerenciamento de Dados
+Use Delta Lake: Para garantir transações ACID, versionamento de dados e melhor desempenho em pipelines de dados.
+Particione dados: Para melhorar o desempenho de consultas em grandes conjuntos de dados.
+Cache de dados: Use o cache para acelerar consultas repetidas em dados frequentemente acessados.
+Gerencie tabelas e metadados: Use o metastore para registrar tabelas e facilitar o acesso.
+
+7. Performance
+Otimize consultas Spark: Use explain() para analisar planos de execução e identificar gargalos.
+Evite ações desnecessárias: Minimize o uso de operações como collect() e show() em grandes conjuntos de dados.
+Broadcast Join: Use joins de broadcast para conjuntos de dados pequenos e grandes.
+Persistência de dados: Escolha o nível de persistência adequado (MEMORY_AND_DISK, DISK_ONLY, etc.) com base na carga de trabalho.
+
+8. Colaboração
+Use comentários em notebooks: Colabore com sua equipe adicionando comentários diretamente nos notebooks.
+Integre com ferramentas externas: Conecte o Databricks a ferramentas como Slack ou Jira para notificações e rastreamento de tarefas.
+Compartilhe notebooks: Use links compartilháveis ou exporte notebooks para facilitar a colaboração.
+
+9. Monitoramento e Depuração
+Use o Spark UI: Monitore jobs, estágios e tarefas para identificar problemas de desempenho.
+Logs estruturados: Configure logs estruturados para rastrear erros e eventos importantes.
+Alertas e métricas: Configure alertas para monitorar o desempenho e o uso de recursos.
+
+10. Custos
+Gerencie custos de clusters: Use clusters de baixo custo para desenvolvimento e clusters otimizados para produção.
+Armazenamento eficiente: Compacte e otimize arquivos para reduzir custos de armazenamento.
+Monitore o uso: Use relatórios de uso do Databricks para identificar áreas de otimização de custos.
+
+11. Integração com Outras Ferramentas
+Conecte-se a provedores de nuvem: Use integrações nativas com AWS, Azure ou GCP para acessar dados armazenados na nuvem.
+Integre com ferramentas de BI: Conecte o Databricks a ferramentas como Tableau ou Power BI para visualização de dados.
+Automatize pipelines: Use ferramentas como Apache Airflow ou Databricks Workflows para orquestrar pipelines de dados.
+
