@@ -46,7 +46,7 @@ Abaixo, interface de acesso, criei um diretório com o nome Santander e inseri n
 ![image](https://github.com/user-attachments/assets/b58a7e02-ab6e-409c-be19-8784a6e40e55)
 
 
-   - Para iniciar o desenvolvimento, dvemos criar um cluster com definições de versão do spark e recurso de hardware para processar o arquivo. O menú ao lado esquerdo tem a opção Computer, nela criamos o cluster para uso.
+   - Para iniciar o desenvolvimento, devemos criar um cluster com definições de versão do spark e recurso de hardware para processar o arquivo. O menú ao lado esquerdo tem a opção Computer, nela criamos o cluster para uso.
 
 ![image](https://github.com/user-attachments/assets/f4ea54c9-1ae5-4191-a0aa-c3323a9212ed)
 
@@ -57,7 +57,7 @@ Para o desenvolvimento do teste, defini a seguinte configuração:
    - Criado o cluster e ativo para uso, é necessário fazer upload do arquivo para o ambiente, podemos fazê-lo clicando na opção Catalog, no menú ao lado esquerdo:
 ![image](https://github.com/user-attachments/assets/de0523a7-6d58-462b-a84a-68276a14552f)
 
-No botão acima, create table ao clicar, poderemos movimentar o arquivo para o ambinete. 
+No botão acima, create table, ao clicar, poderemos movimentar o arquivo para o ambinete. 
 Minha tabela está criada, exibirei como podemos criá-la mais adiante através do código, essa interface viabiliza criá-la diretamente, ativando algumas opções para formatá-la com base em sua estrutura, se o separador é virgula ou ponto e vírgula, por exemplo, entre outras propriedades.
 Ao clicar em Create Table a seguinte tela será exibida
 
@@ -135,8 +135,8 @@ Para o teaste optei em criar um classe com o nome SantanderAccessLog para realiz
 
    - Teste_Santander_testes.ipynb: arquivo com testes no formato jupyter notebook
    - Teste_Santander_Classe.ipynb: arquivo com classe criada para o teste formato jupyter notebook
-   - Teste_Santander_testes.py: arquivo comtestes no formato .py
-   - Teste_Santander_Classe.py: arquivo com classe criada para o teste formato .p
+   - Teste_Santander_testes.py: arquivo com testes no formato .py
+   - Teste_Santander_Classe.py: arquivo com classe criada para o teste formato .py
 
 ---
 
