@@ -128,6 +128,16 @@ Para o teaste optei em criar um classe com o nome SantanderAccessLog para realiz
 
 ![image](https://github.com/user-attachments/assets/09bfc12f-054e-4e87-b35a-91541a85b9fe)
 
+
+---
+
+### **Arquivos no github:**
+
+   - Teste_Santander_testes.ipynb: arquivo com testes no formato jupyter notebook
+   - Teste_Santander_Classe.ipynb: arquivo com classe criada para o teste formato jupyter notebook
+   - Teste_Santander_testes.py: arquivo comtestes no formato .py
+   - Teste_Santander_Classe.py: arquivo com classe criada para o teste formato .p
+
 ---
 
 ### **Print Respostas:**
